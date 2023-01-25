@@ -21,7 +21,8 @@
     "missionStatement": "",
     "parent_ein": 1,
     "latitude": "42.101109",
-    "longitude": "-72.586230"
+    "longitude": "-72.586230",
+    "path": "two"
     },
     {
     "ein": "261149993",
@@ -67,7 +68,8 @@
     "missionStatement": "",
     "parent_ein": 1,
     "latitude": "40.198396",
-    "longitude": "-83.010184"
+    "longitude": "-83.010184",
+    "path": "three"
     },
     {
     "ein": "261150011",
@@ -90,7 +92,8 @@
     "missionStatement": "",
     "parent_ein": 1,
     "latitude": "41.497414",
-    "longitude": "-81.679779"
+    "longitude": "-81.679779",
+     "path": "four"
     },
     {
     "ein": "261150091",
@@ -481,7 +484,8 @@
     "missionStatement": "",
     "parent_ein": 1,
     "latitude": "38.201042",
-    "longitude": "-79.015411"
+    "longitude": "-79.015411",
+    "path": "one"
     },
     {
     "ein": "261150871",
@@ -849,7 +853,8 @@
     "missionStatement": "",
     "parent_ein": 1,
     "latitude": "40.703119",
-    "longitude": "-74.013534"
+    "longitude": "-74.013534",
+    "path": "home"
     },
     {
     "ein": "261151519",
